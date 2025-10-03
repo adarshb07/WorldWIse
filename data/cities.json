@@ -37,76 +37,28 @@
       "id": 98443197
     },
     {
-      "cityName": "Vienna",
-      "country": "Austria",
-      "emoji": "🇦🇹",
-      "date": "2027-05-20T10:15:30.000Z",
-      "notes": "Beautiful architecture!",
-      "position": {
-        "lat": 48.2081743,
-        "lng": 16.3738189
-      },
-      "id": 12345678
-    },
-    {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 41.3850639,
-        "lng": 2.1734035
-      },
-      "id": 122321231
-    },
-    {
-      "cityName": "Champagne-Mouton",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-10-02T16:38:21.606Z",
-      "notes": "test",
-      "position": {
-        "lat": "45.97406038956239",
-        "lng": "0.42846679687500006"
-      },
-      "id": 122321232
-    },
-    {
-      "cityName": "Sant Joan",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-10-02T16:39:37.206Z",
-      "notes": "test",
-      "position": {
-        "lat": "39.57182223734374",
-        "lng": "3.0541992187500004"
-      },
-      "id": 122321233
-    },
-    {
-      "cityName": "Foggaret Ezzaou",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2025-10-02T16:42:01.099Z",
-      "notes": "Check the add feature",
-      "position": {
-        "lat": "28.14950321154457",
-        "lng": "3.251953125"
-      },
-      "id": 122321234
-    },
-    {
-      "cityName": "Rahatgarh",
+      "cityName": "Jammu",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2025-10-02T16:42:58.109Z",
+      "date": "2025-10-03T16:15:06.237Z",
+      "notes": "Living here",
+      "position": {
+        "lat": "32.667115701364416",
+        "lng": "74.84708547592165"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Kenora District",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2025-10-03T19:01:00.186Z",
       "notes": "test",
       "position": {
-        "lat": "23.885837699862005",
-        "lng": "78.39843750000001"
+        "lat": "49.85923471774692",
+        "lng": "-92.735595703125"
       },
-      "id": 122321235
+      "id": 98443199
     }
   ]
 }
